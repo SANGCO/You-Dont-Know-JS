@@ -9,7 +9,7 @@ Most developers would say that a dynamic language (like JS) does not have *types
 
 Now, if you're a fan of strongly typed (statically typed) languages, you may object to this usage of the word "type." In those languages, "type" means a whole lot *more* than it does here in JS.
 
-Some people say JS shouldn't claim to have "types," and they should instead be called "tags" or perhaps "subtypes".
+[Some people say JS shouldn't claim to have "types," and they should instead be called "tags" or perhaps "subtypes".](#)
 
 Bah! We're going to use this rough definition (the same one that seems to drive the wording of the spec): a *type* is an intrinsic, built-in set of characteristics that uniquely identifies the behavior of a particular value and distinguishes it from other values, both to the engine **and to the developer**.
 
